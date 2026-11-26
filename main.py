@@ -11,6 +11,15 @@ percentage chance, then the absurdity slipped in flat: rain made of
 teaspoons, and wind strong enough to move the town square itself by
 Thursday. The twist lands in the last few words, and the whole line is
 sayable in one breath, as if a meteorologist were reading it off the map.
+
+Why this line, not the other drafts: the judge weighs the funnier joke
+second and the more vivid detail third, after staying on subject. "Raining
+teaspoons" gives a concrete, countable image a listener can picture at
+once, and "relocate the town square by Thursday" is a bureaucratic deadline
+attached to an impossible event — the deadpan register of a council notice,
+not a shout. The other drafts leaned on one trick each (a complaint, a
+request for anonymity, déjà vu); this one stacks two different absurdities
+in one breath while keeping the broadcast cadence intact.
 """
 
 import os
